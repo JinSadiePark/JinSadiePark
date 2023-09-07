@@ -1,4 +1,7 @@
-### Hi there 👋
+Hello!👋
+I'm Jinkyung Park, but I go by Jin.
+I'm currently studying Statistics at Brigham Young University.
+I'm from Korea and I love to dance and cook!
 
 <!--
 **JinSadiePark/JinSadiePark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
